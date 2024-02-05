@@ -4,7 +4,7 @@ export default class CommonTest extends Component{
 
     render(){
         return (
-            <p>Common working!</p>
+            <p>Common workfing!</p>
         );
     }
 }
